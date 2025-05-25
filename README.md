@@ -1,4 +1,4 @@
-# Clinic-Website
+# Clinic-Website-Project
 
 Description of the Demo "MedClinic" Website
 **Overview**
